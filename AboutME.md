@@ -1,53 +1,70 @@
-# Michał Bichajło
+# Michał Bichajło  
 
-## Database Administrator | Network Administrator | Software Engineer
+## Database Administrator | SQL Server | Infrastructure & Automation  
 
-### Profile
-I am a detail-oriented professional who ensures the effective operation of the systems I work with. I prefer addressing tasks immediately rather than postponing them. I am always eager to learn new technologies and strive to be well-versed in my field.
+### 🚀 About Me  
+I am a detail-oriented Database Administrator with hands-on experience in managing SQL Server environments and supporting production systems. I focus on performance, availability, and reliability of critical infrastructure.  
 
-## Contact
-- **Phone:** +48 696 518 083  
-- **Email:** bichajlomichal1@gmail.com  
-- **GitHub:** [github.com/Bihuss](https://github.com/Bihuss/)  
-
-## Experience
-
-### Tech Support Specialist, ASKOM (12/2024 - Present)
-- Managing factory clusters and administrating factory databases.
-- Monitoring production lines across multiple factories worldwide.
-- Maintaining server connections and handling requests from production managers.
-- Performing minor front-end/backend code changes.
-- Collaborating with factory IT teams to resolve issues.
-- Working in hybrid shifts.
-
-### Second Line Support, AIUT (05/2022 - 10/2023)
-- Handling customer requests.
-- Managing databases.
-- Providing network support.
-- Working in a large team requiring strong technical expertise to quickly resolve issues.
-- Operating in a hybrid shift environment.
-
-### Client Advisor, PKO Bank Polski (03/2018 - 01/2019)
-- Providing bank services to customers.
-- Maintaining electrical equipment in the branch.
-- Demonstrating a positive and team-oriented attitude.
-- Managing time effectively and handling multiple tasks simultaneously.
-
-## Skills
-- **Database Management**  
-- **Network Administration**  
-- **Creative Problem-Solving**  
-- **Strong Communication Skills**  
-- **Technical Proficiency:** C# | T-SQL | Python | PowerShell  
-
-## Education
-
-### WSB Merito Chorzów (2024 - 2026)
-- IT Master, Advanced Databases
-
-### WSB Merito Chorzów (2019 - 2023)
-- IT Engineer, Software Development
+I enjoy solving complex technical problems, automating processes, and continuously expanding my knowledge in database technologies and system architecture.  
 
 ---
-This README serves as my professional summary and career overview. Feel free to connect with me on GitHub!
 
+### 💼 Experience  
+
+#### 🗄️ Database Administrator (07/2025 – Present)  
+- Managing SQL Server environments in large-scale, mission-critical systems  
+- Configuring databases, permissions, and high availability solutions  
+- Performance tuning and monitoring  
+- Backup & recovery strategies implementation  
+- Supporting on-premises and Azure SQL environments  
+- Automating administrative tasks using PowerShell  
+- Providing technical consulting for database solutions  
+
+#### 🏭 Tech Support Specialist – ASKOM (12/2024 – 07/2025)  
+- Managing factory clusters and industrial database systems  
+- Monitoring production lines across global factories  
+- Maintaining server connectivity and infrastructure  
+- Supporting production managers with system requests  
+- Implementing minor backend/frontend fixes  
+- Collaborating with international IT teams  
+
+#### 🛠️ Second Line Support – AIUT (05/2022 – 10/2023)  
+- Handling technical requests and troubleshooting issues  
+- Supporting database and network infrastructure  
+- Working in a high-demand, team-based environment  
+- Resolving incidents efficiently in a hybrid shift model  
+
+---
+
+### 🧠 Skills  
+
+- **Databases:** SQL Server, PostgreSQL  
+- **Tools:** SSMS, pgAdmin  
+- **Systems:** Windows Server, basic Linux  
+- **Scripting & Programming:** PowerShell, C#, Python  
+- **Virtualization:** Hyper-V, VMware  
+- **Cloud:** Azure Fundamentals (AZ-900)  
+- **Other:** Performance tuning, automation, problem solving  
+
+---
+
+### 🎓 Education  
+
+**WSB Merito Chorzów (2024 – 2026)**  
+- IT Master – Advanced Databases  
+
+**WSB Merito Chorzów (2019 – 2023)**  
+- IT Engineer – Software Development  
+
+---
+
+### 📫 Contact  
+
+- 📧 bichajlomichal1@gmail.com  
+- 📱 +48 696 518 083  
+- 💻 [GitHub](https://github.com/Bihuss)  
+- 🔗 [LinkedIn](https://linkedin.com/in/michał-bichajło-866044322/)  
+
+---
+
+⭐ Always open to learning new technologies and working with modern data-driven systems.
